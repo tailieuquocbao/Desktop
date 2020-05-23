@@ -1,0 +1,23 @@
+https://ubidots.com/blog/connect-your-esp8266-to-any-available-wi-fi-network/
+
+https://viblo.asia/p/cai-dat-ket-noi-wifi-cho-esp8266-Az45bgQzKxY
+
+https://viblo.asia/p/cac-thiet-bi-iot-ket-noi-internet-nhu-the-nao-bWrZnNJrZxw
+
+
+http://dandientu.com/esp8266/wifimanager-voi-esp8266-tu-dong-ket-noi-cau-hinh-quan-ly-ssid-va-password/
+
+http://dandientu.com/esp8266/wifimanager-voi-esp8266-tu-dong-ket-noi-cau-hinh-quan-ly-ssid-va-password/
+
+https://ubidots.com/community/t/solved-can-i-use-esp8266-using-mqtt-without-connection-manager/664/4
+
+bool ESP8266WiFiAPClass::softAP(const char* ssid, const char* passphrase, int channel, int ssid_hidden, int max_connection) {
+
+
+
+https://stackoverflow.com/questions/56460855/how-can-i-create-two-soft-access-point-on-one-nodemcu-device
+
+
+
+0962035352
+Anhla1234

@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino",
+            "includePath": [
+                "${workspaceFolder}",
+                "/opt/arduino-1.8.12/libraries/**",
+                "/home/quocbao/.arduino15/packages/esp8266/hardware/esp8266/2.6.3/libraries/**",
+                "/home/quocbao/Desktop/Arduino/libraries/**",
+                "/home/quocbao/.arduino15/packages/esp8266/tools/**",
+                "/home/quocbao/.arduino15/packages/esp8266/hardware/esp8266/2.6.3/**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/cpp",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

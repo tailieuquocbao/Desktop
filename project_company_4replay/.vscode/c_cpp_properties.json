@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/quocbao/.arduino15/packages/esp32/tools/**",
+                "/home/quocbao/.arduino15/packages/esp32/hardware/esp32/1.0.4/**",
+                "/home/quocbao/.arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/**",
+                "/home/quocbao/Arduino/libraries/**",
+                "/home/quocbao/Arduino/libraries/ESP8266TimeAlarms/",
+                "/home/quocbao/.arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/WebServer/",
+                "/home/quocbao/.arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/DNSServer/",
+                "/home/quocbao/Arduino/libraries/PubSubClient/",
+                "/home/quocbao/Arduino/libraries/ArduinoJson/",
+                "/home/quocbao/Arduino/libraries/WebServer/src/",
+                "/home/quocbao/Arduino/libraries/WiFiManager-development/**",
+                "/home/quocbao/Arduino/libraries/arduino-oop-sample-master/**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/cpp",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "*.def": "cpp",
+        "*.tcc": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}

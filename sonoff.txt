@@ -1,0 +1,6 @@
+https://github.com/tzapu/SonoffBoilerplate/blob/master/SonoffBoilerplate.ino
+
+https://kipalog.com/posts/C---lambda
+callback function
+
+https://www.instructables.com/id/Flashing-SONOFF-Tasmota-Firmware-on-NodeMCU/

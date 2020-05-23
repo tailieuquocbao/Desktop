@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "/opt/arduino-1.8.12/libraries",
+  "builtInToolsFolders": "/opt/arduino-1.8.12/tools-builder,/opt/arduino-1.8.12/hardware/tools/avr,/home/quocbao/.arduino15/packages",
+  "customBuildProperties": "build.path=/home/quocbao/Desktop/ArduinoOutput,build.warn_data_percentage=75",
+  "fqbn": "espressif:esp32:esp32:PSRAM=disabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none",
+  "hardwareFolders": "/opt/arduino-1.8.12/hardware,/home/quocbao/.arduino15/packages,/home/quocbao/Arduino/hardware",
+  "otherLibrariesFolders": "/home/quocbao/Arduino/libraries",
+  "runtime.ide.version": "10812",
+  "sketchLocation": "/home/quocbao/Desktop/4replay_arduino/main.ino"
+}

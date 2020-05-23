@@ -1,0 +1,232 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/quocbao/Arduino/hardware/espressif/esp32/cores/esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/quocbao/Arduino/hardware/espressif/esp32/variants/esp32"
+  },
+  {
+    "Sourcefile": "/home/quocbao/Desktop/ArduinoOutput/sketch/main.ino.cpp",
+    "Include": "FS.h",
+    "Includepath": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/FS/src"
+  },
+  {
+    "Sourcefile": "/home/quocbao/Desktop/ArduinoOutput/sketch/main.ino.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WiFi/src"
+  },
+  {
+    "Sourcefile": "/home/quocbao/Desktop/ArduinoOutput/sketch/main.ino.cpp",
+    "Include": "SimpleBLE.h",
+    "Includepath": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/SimpleBLE/src"
+  },
+  {
+    "Sourcefile": "/home/quocbao/Desktop/ArduinoOutput/sketch/main.ino.cpp",
+    "Include": "PubSubClient.h",
+    "Includepath": "/home/quocbao/Arduino/libraries/PubSubClient/src"
+  },
+  {
+    "Sourcefile": "/home/quocbao/Desktop/ArduinoOutput/sketch/main.ino.cpp",
+    "Include": "ArduinoJson.h",
+    "Includepath": "/home/quocbao/Arduino/libraries/ArduinoJson/src"
+  },
+  {
+    "Sourcefile": "/home/quocbao/Desktop/ArduinoOutput/sketch/main.ino.cpp",
+    "Include": "ESP8266TimeAlarms.h",
+    "Includepath": "/home/quocbao/Arduino/libraries/ESP8266TimeAlarms"
+  },
+  {
+    "Sourcefile": "/home/quocbao/Desktop/ArduinoOutput/sketch/main.ino.cpp",
+    "Include": "WebServer.h",
+    "Includepath": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WebServer/src"
+  },
+  {
+    "Sourcefile": "/home/quocbao/Desktop/ArduinoOutput/sketch/main.ino.cpp",
+    "Include": "DNSServer.h",
+    "Includepath": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/DNSServer/src"
+  },
+  {
+    "Sourcefile": "/home/quocbao/Desktop/ArduinoOutput/sketch/main.ino.cpp",
+    "Include": "WiFiManager.h",
+    "Includepath": "/home/quocbao/Arduino/libraries/WiFiManager-development"
+  },
+  {
+    "Sourcefile": "/home/quocbao/Desktop/ArduinoOutput/sketch/main.ino.cpp",
+    "Include": "digitalPin.h",
+    "Includepath": "/home/quocbao/Arduino/libraries/arduino-oop-sample-master"
+  },
+  {
+    "Sourcefile": "/home/quocbao/Desktop/ArduinoOutput/sketch/main.ino.cpp",
+    "Include": "DHT.h",
+    "Includepath": "/home/quocbao/Arduino/libraries/DHT_sensor_library"
+  },
+  {
+    "Sourcefile": "/home/quocbao/Desktop/ArduinoOutput/sketch/main.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/FS/src/FS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/FS/src/vfs_api.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WiFi/src/ETH.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WiFi/src/WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WiFi/src/WiFiAP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WiFi/src/WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WiFi/src/WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WiFi/src/WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WiFi/src/WiFiProv.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WiFi/src/WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WiFi/src/WiFiScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WiFi/src/WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WiFi/src/WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/SimpleBLE/src/SimpleBLE.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/PubSubClient/src/PubSubClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/ESP8266TimeAlarms/ESP8266TimeAlarms.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WebServer/src/Parsing.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WebServer/src/WebServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/WebServer/src/detail/mimetable.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/hardware/espressif/esp32/libraries/DNSServer/src/DNSServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/WiFiManager-development/WiFiManager.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/arduino-oop-sample-master/Button .cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/arduino-oop-sample-master/ButtonRS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/arduino-oop-sample-master/Buttonreset.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/arduino-oop-sample-master/NewRelay.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/arduino-oop-sample-master/Sensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/arduino-oop-sample-master/Settup_wifi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/arduino-oop-sample-master/Timer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/DHT_sensor_library/DHT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/DHT_sensor_library/DHT_U.cpp",
+    "Include": "Adafruit_Sensor.h",
+    "Includepath": "/home/quocbao/Arduino/libraries/Adafruit_Sensor"
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/DHT_sensor_library/DHT_U.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/quocbao/Arduino/libraries/Adafruit_Sensor/Adafruit_Sensor.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

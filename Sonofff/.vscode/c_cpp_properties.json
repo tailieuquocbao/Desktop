@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/quocbao/.arduino15/packages/esp8266/tools/**",
+                "/home/quocbao/.arduino15/packages/esp8266/hardware/esp8266/2.6.3/**",
+                "/home/quocbao/Arduino/libraries/**",
+                "~/.arduino15/packages/esp8266/hardware/esp8266/2.6.3/libraries/**",
+                "/home/quocbao/Arduino/libraries/blynk-library-master/src/**",
+                "/home/quocbao/Arduino/libraries/blynk-library-master/src"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
